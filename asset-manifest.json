@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hassan012345/zain-jewellers/static/css/main.316e9cb0.css",
-    "main.js": "/hassan012345/zain-jewellers/static/js/main.aac2ca00.js",
-    "static/js/453.95b68e51.chunk.js": "/hassan012345/zain-jewellers/static/js/453.95b68e51.chunk.js",
-    "index.html": "/hassan012345/zain-jewellers/index.html",
-    "main.316e9cb0.css.map": "/hassan012345/zain-jewellers/static/css/main.316e9cb0.css.map",
-    "main.aac2ca00.js.map": "/hassan012345/zain-jewellers/static/js/main.aac2ca00.js.map",
-    "453.95b68e51.chunk.js.map": "/hassan012345/zain-jewellers/static/js/453.95b68e51.chunk.js.map"
+    "main.css": "/zain-jewellers/static/css/main.316e9cb0.css",
+    "main.js": "/zain-jewellers/static/js/main.f372ca9d.js",
+    "static/js/453.95b68e51.chunk.js": "/zain-jewellers/static/js/453.95b68e51.chunk.js",
+    "index.html": "/zain-jewellers/index.html",
+    "main.316e9cb0.css.map": "/zain-jewellers/static/css/main.316e9cb0.css.map",
+    "main.f372ca9d.js.map": "/zain-jewellers/static/js/main.f372ca9d.js.map",
+    "453.95b68e51.chunk.js.map": "/zain-jewellers/static/js/453.95b68e51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.316e9cb0.css",
-    "static/js/main.aac2ca00.js"
+    "static/js/main.f372ca9d.js"
   ]
 }
